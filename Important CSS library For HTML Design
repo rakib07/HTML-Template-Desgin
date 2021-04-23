@@ -1,0 +1,11 @@
+reset.css - CSS file that makes browsers render all elements more consistently and in line with modern standards.
+
+bootstrap-grid.min.css - Minified version of Bootstrap Grid System.
+
+animations.css - CSS3 animation sets for subpages changer.
+
+perfect-scrollbar.css - Custom scrollbar styles. Perfect Scrollbar Plugin.
+
+owl.carousel.css - The main stylesheet for Carousels (Testimonials block on About me subpage & Portfolio details page).
+
+magnific-popup.css - The main stylesheet for styling the lightbox.
